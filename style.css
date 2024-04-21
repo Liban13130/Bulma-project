@@ -1,0 +1,15 @@
+section.home{
+    background-image: url(images/welcome.png);
+    background-size: cover;
+    background-position: center;
+}
+section.background-1{
+    background-image: url(images/welcome.png);
+    background-size: 100%;
+    background-position: center;
+}
+section.background-2{
+    background-image: url(images/welcome.png);
+    background-size: 100%;
+    background-position: center;
+}
