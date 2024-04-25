@@ -5,11 +5,11 @@ section.home{
 }
 section.background-1{
     background-image: url(images/desktop/photo-1578574577315-3fbeb0cecdc2.avif);
-    background-size: 100%;
+    background-size: cover;
     background-position: center;
 }
 section.background-2{
     background-image: url(images/desktop/dre.avif);
-    background-size: 100%;
+    background-size: cover;
     background-position: center;
 }
